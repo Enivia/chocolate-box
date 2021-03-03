@@ -1,0 +1,9 @@
+{
+  "name": "chocolate-box",
+  "description": "chocolate box.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
